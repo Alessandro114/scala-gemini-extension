@@ -1,0 +1,11 @@
+{
+  "name": "scala-ai",
+  "version": "0.1.0",
+  "description": "Read-only access to your S.C.A.L.A. AI account (CRM, finance, SARA, verticals, workflows) from Gemini CLI. Requires a S.C.A.L.A. Growth plan or higher, or a Growth trial.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "scala": {
+      "httpUrl": "https://mcp.get-scala.com/mcp"
+    }
+  }
+}
